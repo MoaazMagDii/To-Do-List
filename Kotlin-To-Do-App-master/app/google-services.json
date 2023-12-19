@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "568426960397",
+    "project_id": "to-do-project-eaa63",
+    "storage_bucket": "to-do-project-eaa63.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568426960397:android:46b4f288235ce142252744",
+        "android_client_info": {
+          "package_name": "com.example.kotlintodopractice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdzwhjW7Ajw3G9QOvo7yre0OAfof2zz30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
